@@ -1,0 +1,6 @@
+新建文件夹，在文件夹中右击，点击Git bash;打开小黑框，在小黑框输入
+git init
+git config --global user.name "Freedom9702"
+git config --global user.email "1872617734@qq.com"
+
+新建文件，写东西
