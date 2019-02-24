@@ -4,3 +4,12 @@ git config --global user.name "Freedom9702"
 git config --global user.email "1872617734@qq.com"
 
 新建文件，写东西
+git add index.txt;  
+git add 后是要添加的文件名.扩展名,此时已经添加到了暂存区了
+git commit -m "备注即日志" 
+
+
+———————————————————————————————————
+git status 查看状态
+git diff   查看改变
+第二次提交需要再进行一次添加，添加以后再进行提交
